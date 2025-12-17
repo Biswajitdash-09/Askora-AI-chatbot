@@ -1,2 +1,3 @@
 Activity Log
 Commit entry #1
+Commit entry #2
